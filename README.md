@@ -1,7 +1,8 @@
 # 🗂️ Portfolio
-**Case studies and projects focusing on data architecture and machine learning. Here, I document how I build systems and extract insights from complex data.**
 
-`SQL (PostgreSQL)` • `NoSQL (Neo4j, MongoDB)` • `ETL Pipelines` • `Machine Learning`
+Case studies in database architecture, network analysis, and machine learning. Focusing on building clean foundations and solving technical data challenges.
+
+`SQL (PostgreSQL)` - `NoSQL (Neo4j, MongoDB)` - `ETL Pipelines` - `Machine Learning`
 ---
 
 ### 📑 Table of Contents
