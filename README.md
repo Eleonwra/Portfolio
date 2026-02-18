@@ -18,8 +18,9 @@
 * **[Project Name](link)**: Short one-sentence description of an analysis project.
 
 ### 🗄️ SQL & Data Engineering
-* **[Relational Database Refactoring](link)**: Optimized a complex SQL schema for land-share cooperatives, ensuring 100% data integrity for financial distribution.
-* **[Project Name](link)**: Short one-sentence description of a database project.
+| Project Link | Tools | Project Description |
+| :--- | :--- | :--- |
+|[🌍 Static SRDBMs: Global Air Transport](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.|
 
 ---
 ### 🛠️ Technical Stack
