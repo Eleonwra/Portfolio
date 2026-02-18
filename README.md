@@ -15,12 +15,12 @@ Case studies in database architecture, network analysis, and machine learning. F
 
 ### 🧠 AI & Machine Learning
 
-| Project Link | Tools | Project Description |
-| :--- | :--- | :--- |
-| **🫀 Master’s Thesis: Medical NER** | Hugging Face, mBERT, XLM-R, GreekBERT, Stanza, Pytorch, W&B | Developed a **semi-supervised framework** for low-resource Greek clinical text by concatenating document-level metadata into model inputs. Engineered the dataset from raw EHRs (.docx, .txt) into HF format and benchmarked tokenizers to integrate Stanza.|
-| **[🫀 ElCardioCC (NER) BioASQ 2025 Baseline](https://github.com/Eleonwra/elcardiocc-baseline-ner.git)** | Hugging Face, mBERT, Stanza, PyTorch, W&B, Streamlit | **Official Supervised NER Baseline**. Scaled thesis research into a production-ready model to streamline **clinical coding**.  Developed custom PyTorch logic for subword reconstruction and deployed an inference demo in Streamlit.|
-| [💰 **Cost-Sensitive Loan Default Prediction**](https://github.com/Eleonwra/cost-sensitive-ml-for-loan-default-prediction.git) | Scikit-learn, Imbalanced-learn, NumPy, Matplotlib | Developed a comparative framework to mitigate asymmetric financial risk (1:5 cost ratio). Implemented **Hybrid Resampling**, **Cost-Weighting**, and **Bayes Risk Minimization** across 3 model families to optimize for lowest financial loss rather than global accuracy. |
-|[**ML Playground**](https://github.com/Eleonwra/ml-playground.git)|| |
+| Project Link | Tools | Project Description | Publication
+| :--- | :--- | :--- | :-- |
+| **🫀 Master’s Thesis: Medical NER** | Hugging Face, mBERT, XLM-R, GreekBERT, Stanza, Pytorch, W&B | Developed a **semi-supervised framework** for low-resource Greek clinical text by concatenating document-level metadata into model inputs. Engineered the dataset from raw EHRs (.docx, .txt) into HF format and benchmarked tokenizers to integrate Stanza.| [Thesis](https://ikee.lib.auth.gr/record/359896/?ln=en) |
+| **[🫀 ElCardioCC (NER) BioASQ 2025 Baseline](https://github.com/Eleonwra/elcardiocc-baseline-ner.git)** | Hugging Face, mBERT, Stanza, PyTorch, W&B, Streamlit | **Official Supervised NER Baseline**. Scaled thesis research into a production-ready model to streamline **clinical coding**.  Developed custom PyTorch logic for subword reconstruction and deployed an inference demo in Streamlit.| [Paper](https://ceur-ws.org/Vol-4038/paper_4.pdf)
+| [💰 **Cost-Sensitive Loan Default Prediction**](https://github.com/Eleonwra/cost-sensitive-ml-for-loan-default-prediction.git) | Scikit-learn, Imbalanced-learn, NumPy, Matplotlib | Developed a comparative framework to mitigate asymmetric financial risk (1:5 cost ratio). Implemented **Hybrid Resampling**, **Cost-Weighting**, and **Bayes Risk Minimization** across 3 model families to optimize for lowest financial loss rather than global accuracy. ||
+|[**ML Playground**](https://github.com/Eleonwra/ml-playground.git)|| ||
 
 ### 📊 Data Analysis
 
