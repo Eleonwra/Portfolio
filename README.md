@@ -14,13 +14,15 @@
 
 
 ### 📊 Data Analysis & Graph Science
-* **[Neo4j Social Graph](link)**: Transformed 30k+ interactions into a Knowledge Graph. Applied PageRank and Louvain algorithms to detect influential users and behavioral clusters.
-* **[Project Name](link)**: Short one-sentence description of an analysis project.
+
+| Project Link | Tools | Project Description |
+| :--- | :--- | :--- |
+|||
 
 ### 🗄️ SQL & Data Engineering
 | Project Link | Tools | Project Description |
 | :--- | :--- | :--- |
-|[🌍 Static SRDBMs: Global Air Transport](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.|
+|[🌍 Static Spatial RDBMS: Global Air Transport](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.|
 
 ---
 ### 🛠️ Technical Stack
