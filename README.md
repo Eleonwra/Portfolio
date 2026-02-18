@@ -19,7 +19,7 @@
 
 ### 🗄️ Database Engineering (SQL & NoSQL)
 | Project Link | Tools | Project Description | Medium Link |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 |[🌍 Static Spatial RDBMS: Global Air Transport](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| **Relational Architecture:** Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.||
 |[🐦‍⬛ Graph DBMS: Twitter Network Analysis](https://github.com/Eleonwra/twitter-network-analysis.git)|Neo4j, Cypher, Python, MongoDB|**Graph Architecture**. Architected a non-tabular schema to map social interactions (Users, Tweets, Hashtags). Implemented an ETL flow from **MongoDB to Neo4j** and applied **PageRank** and **Louvain** algorithms to detect influential users and hidden communities. | [Medium](https://medium.com/@ioannisprokopiou/analysis-of-twitter-data-with-the-help-of-neo4j-graph-database-and-python-c844784baedb)
 
