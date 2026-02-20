@@ -2,8 +2,6 @@
 
 Case studies in database architecture, network analysis, and machine learning. Focusing on building clean foundations and solving technical data challenges.
 
-<sub>`SQL (PostgreSQL)` • `NoSQL (Neo4j, MongoDB)` • `ETL` • `Machine Learning` • `Clinical NLP`</sub>
-
 ![SQL (PostgreSQL)](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square) ![](https://img.shields.io/badge/NoSQL-Neo4j%20|%20Mongo-green?style=flat-square) ![](https://img.shields.io/badge/ML-Clinical%20NLP-orange?style=flat-square)
 ---
 
