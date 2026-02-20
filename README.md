@@ -49,11 +49,11 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 ### 🛠️ Technical Stack
 
-* **Languages**: Python (PyTorch, Scikit-learn, NLTK), SQL, Cypher, SPSS
+* **Languages**: Python (PyTorch, Scikit-learn, NLTK), SQL, Cypher, R
 
 * **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j | Document: 
 
-* **Statistical Analysis**: SPSS (Hypothesis Testing, Correlation, ANOVA)
+* **Statistical Analysis**: SPSS, R
 
 * **MLOps & Experiment Tracking**: Hugging Face, Weights & Biases (W&B)
 
