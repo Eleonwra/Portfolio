@@ -2,11 +2,6 @@
 
 Welcome! Here’s a sneak peek into the projects I’ve been most passionate about. This is a snapshot of my work and technical growth so far.
 
-![SQL (PostgreSQL)](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square) 
-![NoSQL (MongoDB)](https://img.shields.io/badge/NoSQL-MongoDB-green?style=flat-square) 
-![GraphDB (Neo4j)](https://img.shields.io/badge/Graph-Neo4j-008CC1?style=flat-square) 
-![Stats (SPSS)](https://img.shields.io/badge/Stats-SPSS-red?style=flat-square) 
-![ML (Clinical NLP)](https://img.shields.io/badge/ML-Clinical%20NLP-orange?style=flat-square)
 ---
 
 ### 📑 Table of Contents
