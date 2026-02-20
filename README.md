@@ -2,7 +2,11 @@
 
 Case studies in database architecture, network analysis, and machine learning. Focusing on building clean foundations and solving technical data challenges.
 
-![SQL (PostgreSQL)](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square) ![](https://img.shields.io/badge/NoSQL-Neo4j%20|%20Mongo-green?style=flat-square) ![](https://img.shields.io/badge/ML-Clinical%20NLP-orange?style=flat-square)
+![SQL (PostgreSQL)](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square) 
+![NoSQL (MongoDB)](https://img.shields.io/badge/NoSQL-MongoDB-green?style=flat-square) 
+![GraphDB (Neo4j)](https://img.shields.io/badge/Graph-Neo4j-008CC1?style=flat-square) 
+![Stats (SPSS)](https://img.shields.io/badge/Stats-SPSS-red?style=flat-square) 
+![ML (Clinical NLP)](https://img.shields.io/badge/ML-Clinical%20NLP-orange?style=flat-square)
 ---
 
 ### 📑 Table of Contents
