@@ -29,7 +29,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 | :--- | :--- | :--- | :-- |
 |**🌐 TripAdvisor Data Mining** (Team Project)|Python (Selenium, NLTK, Gensim)|Developed a scraping pipeline using Selenium to extract TripAdvisor reviews, bypassing dynamic web obstacles and cookie banners. Processed raw text using NLTK (Lemmatization & Stop-word removal) and applied Latent Dirichlet Allocation (LDA).|[Medium](https://medium.com/@ioannisprokopiou/web-scraping-with-python-41a728506d90)|
 |[**⌚ FitBit Streamlit app** (Team Project)](https://github.com/Eleonwra/fitbit-wellness-tracker.git)|Fitbit API, MongoDB, Streamlit, Plotly| Architected an end-to-end pipeline using OAuth 2.0 and MongoDB to store heart rate and activity metrics. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluctuations and personalized fitness insights.|[Medium](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
-|**📊 Exploratory Research & Survey Analysis**|SPSS, Google Forms|Research Collaboration: Engineered a digital questionnaire for data collection and performed end-to-end statistical analysis. Conducted Hypothesis Testing, Correlation Analysis, and descriptive statistics to validate research variables.|🔒 Restricted Access|
+|**📊 Statistical Research Support**|SPSS, Google Forms|Undergraduate Thesis Collaboration: Technical Lead for the research pipeline. Optimized and approved the digital questionnaire structure for data integrity, followed by full-scale Descriptive Analysis, **Correlation Studies**, and **Hypothesis Testing**.|🔒 Restricted Access|
 
 <a name="data-engineering"></a>
 ### 🗄️ Database Engineering (SQL & NoSQL)
