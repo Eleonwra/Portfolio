@@ -11,7 +11,7 @@ Case studies in database architecture, network analysis, and machine learning. F
 
 ### 📑 Table of Contents
 * [🧠 AI & Machine Learning](#-ai--machine-learning)
-* [📊 Data Analysis](#-data-analysis)
+* [🧑🏻‍🔧 Data Engineering & Analytics](#-data-analysis)
 * [🗄️ Database Engineering](#️-database-engineering-sql--nosql)
 * [🛠️ Technical Stack](#️-technical-stack)
 
