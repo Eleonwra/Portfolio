@@ -43,8 +43,10 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 | Category | Tools |
 | :--- | :--- |
-| Programming & Data Science | Python (NumPy, Pandas, Matplotlib, PyTorch) |
-| Databases | Relational: PostgreSQL, PostGIS <br> Graph: Neo4j |
-| Statistical Analysis | R, SPSS |
-| MLOps & Experiment Tracking | Hugging Face, W&B |
-| Deployment & Data Extraction | Streamlit, Selenium |
+| **🧠 AI & Machine Learning** | `PyTorch` • `Hugging Face` • `Transformers` • `W&B` |
+| **🐍 Python & Data Science** | `NumPy` • `Pandas` • `Matplotlib` • `OOP` |
+| **📊 Databases & Graphs** | `PostgreSQL` • `PostGIS` • `Neo4j` • `MongoDB`  |
+| **🔬 Stats & Research** | `R` • `SPSS` • `LaTeX` |
+| **🌐 Deployment & Scraping** | `Streamlit` • `Selenium` • `Git/GitHub` |
+
+* **Python**: Numpy, Pandas, Matplotlib, PyTorch * **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j * **Statistical Analysis**: SPSS, R * **MLOps & Experiment Tracking**: Hugging Face, Weights & Biases (W&B) * **Deployment & Data Extraction**: Streamlit, Selenium
