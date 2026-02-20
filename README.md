@@ -11,7 +11,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 ### 📑 Table of Contents
 * [🧠 AI & Machine Learning](#-ai--machine-learning)
-* [🧑🏻‍🔧 Data Engineering & Analytics](#-data-engineering--analytics)
+* [🧑🏻‍🔧 Data Engineering & Analytics](#-data-engineering---analytics)
 * [🗄️ Database Engineering](#️-database-engineering-sql--nosql)
 * [🛠️ Technical Stack](#️-technical-stack)
 
