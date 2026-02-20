@@ -47,4 +47,4 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 * **MLOps & Experiment Tracking**: Hugging Face, Weights & Biases (W&B)
 
-* **Deployment & UIData Extraction**: Streamlit, Selenium
+* **Deployment & Data Extraction**: Streamlit, Selenium
