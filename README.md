@@ -39,6 +39,12 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 |[**🌍 Static Spatial RDBMS: Global Air Transport**](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| **Relational Architecture:** Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.||
 |[**🐦‍⬛ Graph DBMS: Twitter Network Analysis** (Team Project)](https://github.com/Eleonwra/twitter-network-analysis.git)|Neo4j, Cypher, Python, MongoDB|**Graph Architecture**. Architected a non-tabular schema to map social interactions (Users, Tweets, Hashtags). Implemented an ETL flow from **MongoDB to Neo4j** and applied **PageRank** and **Louvain** algorithms to detect influential users and hidden communities. | [Read](https://medium.com/@ioannisprokopiou/analysis-of-twitter-data-with-the-help-of-neo4j-graph-database-and-python-c844784baedb)
 
+### 🏛️ Archive 
+| Project Link | Tools | Project Description | 
+| :--- | :--- | :--- | :--- |
+|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, RStudio, DAAG| **The project that sparked my passion for ML**. Conducted an in-depth exploratory analysis ccusing strong descriptive statistics and contingency tables to uncover correlations between safety features and aident outcomes. Developed and compared Logistic Regression and Decision Tree models, using k-fold Cross-Validation to ensure predictive accuracy and identify seatbelt usage and speed as critical survival factors.|
+
+
 ---
 
 ### 🛠️ Technical Stack
