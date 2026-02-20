@@ -25,7 +25,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 ### 🧑🏻‍🔧 Data Engineering & Analytics
 
-| Project Link | Tools | Project Description | Medium Link |
+| Project Link | Tools | Project Description | Medium |
 | :--- | :--- | :--- | :-- |
 |**🌐 TripAdvisor Data Mining** (Team Project)|Python (Selenium, NLTK, Gensim)|Developed a scraping pipeline using Selenium to extract TripAdvisor reviews, bypassing dynamic web obstacles and cookie banners. Processed raw text using NLTK (Lemmatization & Stop-word removal) and applied Latent Dirichlet Allocation (LDA).|[Read](https://medium.com/@ioannisprokopiou/web-scraping-with-python-41a728506d90)|
 |[**⌚ FitBit Streamlit app** (Team Project)](https://github.com/Eleonwra/fitbit-wellness-tracker.git)|Fitbit API, MongoDB, Streamlit, Plotly| Architected an end-to-end pipeline using OAuth 2.0 and MongoDB to store heart rate and activity metrics. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluctuations and personalized fitness insights.|[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
@@ -34,15 +34,15 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 <a name="data-engineering"></a>
 ### 🗄️ Database Engineering (SQL & NoSQL)
 
-| Project Link | Tools | Project Description | Medium Link |
+| Project Link | Tools | Project Description | Medium |
 | :--- | :--- | :--- | :--- |
 |[**🌍 Static Spatial RDBMS: Global Air Transport**](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| **Relational Architecture:** Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.||
 |[**🐦‍⬛ Graph DBMS: Twitter Network Analysis** (Team Project)](https://github.com/Eleonwra/twitter-network-analysis.git)|Neo4j, Cypher, Python, MongoDB|**Graph Architecture**. Architected a non-tabular schema to map social interactions (Users, Tweets, Hashtags). Implemented an ETL flow from **MongoDB to Neo4j** and applied **PageRank** and **Louvain** algorithms to detect influential users and hidden communities. | [Read](https://medium.com/@ioannisprokopiou/analysis-of-twitter-data-with-the-help-of-neo4j-graph-database-and-python-c844784baedb)
 
 ### 🏛️ Archive 
-| Project Link | Tools | Project Description
-| :--- | :--- | :--- |
-|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, RStudio, DAAG| **The project that sparked my passion for ML**. Conducted an extensive study transitioning from descriptive statistics and Logistic Regression to advanced SVMs (Linear/Radial) and Artificial Neural Networks. Utilized MCA for dimensionality reduction and k-fold Cross-Validation to identify critical survival factors in 26k+ accident records. (Reports in Greek)|
+| Project Link | Tools | Project Description | Report |
+| :--- | :--- | :--- | :--- |
+|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, nnet, e1071, DAAG| **The project that sparked my passion for ML**. Conducted an extensive study transitioning from descriptive statistics and Logistic Regression to advanced SVMs (Linear/Radial) and Artificial Neural Networks. Utilized MCA for dimensionality reduction and k-fold Cross-Validation to identify critical survival factors in 26k+ accident records.| [Report in Greek](https://drive.google.com/drive/folders/1nq6HYgmBRGeSVvsSFTJMUBWLjJ_HS8wd?usp=drive_link)
 
 
 ---
