@@ -2,8 +2,6 @@
 
 Welcome! Here’s a sneak peek into the projects I’ve been most passionate about. This is a snapshot of my work and technical growth so far.
 
----
-
 ### 📑 Table of Contents
 * [🧠 AI & Machine Learning](#-ai--machine-learning)
 * [🧑🏻‍🔧 Data Engineering & Analytics](#data-engineering)
@@ -38,9 +36,6 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 | Project Link | Tools | Project Description | Report |
 | :--- | :--- | :--- | :--- |
 |**🌱 The origin story**|R, nnet, e1071, DAAG| **The project that sparked my passion for ML**. Conducted an extensive study transitioning from descriptive statistics and Logistic Regression to advanced SVMs (Linear/Radial) and Artificial Neural Networks. Utilized MCA for dimensionality reduction and k-fold Cross-Validation to identify critical survival factors in 26k+ accident records.| [Report in Greek](https://drive.google.com/drive/folders/1nq6HYgmBRGeSVvsSFTJMUBWLjJ_HS8wd?usp=drive_link)
-
-
----
 
 ### 🛠️ Technical Stack
 
