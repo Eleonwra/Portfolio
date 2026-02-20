@@ -39,8 +39,6 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 ### 🛠️ Technical Stack
 
-### 🛠️ Technical Stack
-
 | Category | Tools |
 | :--- | :--- |
 | **🧠 AI & Machine Learning** | `PyTorch` • `Hugging Face` • `Transformers` • `W&B` |
@@ -48,5 +46,3 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 | **📊 Databases & Graphs** | `PostgreSQL` • `PostGIS` • `Neo4j` • `MongoDB`  |
 | **🔬 Stats & Research** | `R` • `SPSS` • `LaTeX` |
 | **🌐 Deployment & Scraping** | `Streamlit` • `Selenium` • `Git/GitHub` |
-
-* **Python**: Numpy, Pandas, Matplotlib, PyTorch * **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j * **Statistical Analysis**: SPSS, R * **MLOps & Experiment Tracking**: Hugging Face, Weights & Biases (W&B) * **Deployment & Data Extraction**: Streamlit, Selenium
