@@ -35,9 +35,6 @@ Case studies in database architecture, network analysis, and machine learning. F
 |[**🐦‍⬛ Graph DBMS: Twitter Network Analysis (Team Project)**](https://github.com/Eleonwra/twitter-network-analysis.git)|Neo4j, Cypher, Python, MongoDB|**Graph Architecture (Joint Development)**. Architected a non-tabular schema to map social interactions (Users, Tweets, Hashtags). Implemented an ETL flow from **MongoDB to Neo4j** and applied **PageRank** and **Louvain** algorithms to detect influential users and hidden communities. | [Read](https://medium.com/@ioannisprokopiou/analysis-of-twitter-data-with-the-help-of-neo4j-graph-database-and-python-c844784baedb)
 
 ---
-### 🛠️ Technical Stack
-* **Languages:** Python, SQL, Cypher
-* **Databases:** Neo4j, PostgreSQL, MongoDB
 
 ### 🛠️ Technical Stack
 * **Languages**: Python (PyTorch, Scikit-learn, NLTK), SQL, Cypher
