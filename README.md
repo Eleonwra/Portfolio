@@ -39,9 +39,9 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 ### 🛠️ Technical Stack
 
-* **Languages**: Python (PyTorch, Scikit-learn, NLTK), SQL, Cypher, R
+* **Python**: Numpy, Pandas, Matplotlib, PyTorch
 
-* **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j | Document: 
+* **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j 
 
 * **Statistical Analysis**: SPSS, R
 
