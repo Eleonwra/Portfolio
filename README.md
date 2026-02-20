@@ -25,7 +25,7 @@ Case studies in database architecture, network analysis, and machine learning. F
 | :--- | :--- | :--- | :-- |
 |**🌐 TripAdvisor Data Mining (Team Project)**|Python (Selenium, NLTK, Gensim)|Developed a scraping pipeline using Selenium to extract TripAdvisor reviews, bypassing dynamic web obstacles and cookie banners. Processed raw text using NLTK (Lemmatization & Stop-word removal) and applied Latent Dirichlet Allocation (LDA).|[Read](https://medium.com/@ioannisprokopiou/web-scraping-with-python-41a728506d90)|
 |[**⌚ FitBit Streamlit app (Team Project)**](https://github.com/Eleonwra/fitbit-wellness-tracker.git)|Fitbit API, MongoDB, Streamlit, Plotly| Architected an end-to-end pipeline using OAuth 2.0 and MongoDB to store heart rate and activity metrics. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluctuations and personalized fitness insights.|[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
-|**📊 Exploratory Research & Survey Analysis**|SPSS, Google Forms|Voluntary Collaboration: Engineered a digital questionnaire for data collection and performed end-to-end statistical analysis. Conducted Hypothesis Testing, Correlation Analysis, and descriptive statistics to validate research variables.||
+|**📊 Exploratory Research & Survey Analysis**|SPSS, Google Forms|Research Collaboration:: Engineered a digital questionnaire for data collection and performed end-to-end statistical analysis. Conducted Hypothesis Testing, Correlation Analysis, and descriptive statistics to validate research variables.||
 |||||
 
 ### 🗄️ Database Engineering (SQL & NoSQL)
