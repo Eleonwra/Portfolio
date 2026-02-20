@@ -33,6 +33,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 |||||
 
 ### 🗄️ Database Engineering (SQL & NoSQL)
+
 | Project Link | Tools | Project Description | Medium Link |
 | :--- | :--- | :--- | :--- |
 |[**🌍 Static Spatial RDBMS: Global Air Transport**](https://github.com/Eleonwra/airlines-sdbms.git)|PostgreSQL, PostGIS, Python, QGIS| **Relational Architecture:** Executed **the complete database lifecycle**, from conceptual **ER Diagramming** to physical implementation. Populated via a custom ETL pipeline and performed advanced analysis using **Window Functions, CTEs, and Spatial queries**.||
@@ -41,6 +42,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 ---
 
 ### 🛠️ Technical Stack
+
 * **Languages**: Python (PyTorch, Scikit-learn, NLTK), SQL, Cypher, SPSS
 
 * **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j | Document: 
