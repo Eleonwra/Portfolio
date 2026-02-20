@@ -25,8 +25,8 @@ Case studies in database architecture, network analysis, and machine learning. F
 
 | Project Link | Tools | Project Description | Medium Link |
 | :--- | :--- | :--- | :-- |
-|**Web Scraping**|||[Read](https://medium.com/@ioannisprokopiou/web-scraping-with-python-41a728506d90)|
-|**FitBit Streamlit app**|||[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
+|**Web Scraping**|Python (Selenium, NLT)|Developed a scraping pipeline using Selenium to extract TripAdvisor reviews, bypassing dynamic web obstacles and cookie banners. Processed raw text using NLTK (Lemmatization & Stop-word removal) and applied Latent Dirichlet Allocation (LDA).|[Read](https://medium.com/@ioannisprokopiou/web-scraping-with-python-41a728506d90)|
+|**FitBit Streamlit app**|Fitbit API,Time Series, Plotly, Streamlit|Architected a health data pipeline using Fitbit API and OAuth 2.0 to store heart rate and activity metrics in MongoDB. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluncuations and personalized fitness insights.|[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
 |**SPSS projects**||||
 |||||
 
@@ -39,4 +39,4 @@ Case studies in database architecture, network analysis, and machine learning. F
 ---
 ### 🛠️ Technical Stack
 * **Languages:** Python, SQL, Cypher
-* **Databases:** Neo4j, PostgreSQL, MS Access
+* **Databases:** Neo4j, PostgreSQL, MongoDB
