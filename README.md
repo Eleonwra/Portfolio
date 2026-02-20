@@ -19,12 +19,12 @@ Case studies in database architecture, network analysis, and machine learning. F
 | **[🫀 ElCardioCC (NER) BioASQ 2025 Baseline](https://github.com/Eleonwra/elcardiocc-baseline-ner.git)** | Hugging Face, mBERT, Stanza, PyTorch, W&B, Streamlit | **Official Supervised NER Baseline**. Scaled thesis research into a production-ready model to streamline **clinical coding**.  Developed custom PyTorch logic for subword reconstruction and deployed an inference demo in Streamlit.| [Paper](https://ceur-ws.org/Vol-4038/paper_4.pdf)
 | [💰 **Cost-Sensitive Loan Default Prediction**](https://github.com/Eleonwra/cost-sensitive-ml-for-loan-default-prediction.git) | Scikit-learn, Imbalanced-learn, NumPy, Matplotlib | Developed a comparative framework to mitigate asymmetric financial risk (1:5 cost ratio). Implemented **Hybrid Resampling**, **Cost-Weighting**, and **Bayes Risk Minimization** across 3 model families to optimize for lowest financial loss rather than global accuracy. ||
 
-### 📊 Data Analysis
+### 📊 Data Engineering & Analytics
 
 | Project Link | Tools | Project Description | Medium Link |
 | :--- | :--- | :--- | :-- |
 |**🌐 TripAdvisor Data Mining (Team Project)**|Python (Selenium, NLTK, Gensim)|Developed a scraping pipeline using Selenium to extract TripAdvisor reviews, bypassing dynamic web obstacles and cookie banners. Processed raw text using NLTK (Lemmatization & Stop-word removal) and applied Latent Dirichlet Allocation (LDA).|[Read](https://medium.com/@ioannisprokopiou/web-scraping-with-python-41a728506d90)|
-|[**⌚ FitBit Streamlit app (Team Project)**](https://github.com/Eleonwra/fitbit-wellness-tracker.git)|Fitbit API, MongoDB, Streamlit, Plotly| Architected an end-to-end pipeline using OAuth 2.0 and MongoDB to store heart rate and activity metrics. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluncuations and personalized fitness insights.|[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
+|[**⌚ FitBit Streamlit app (Team Project)**](https://github.com/Eleonwra/fitbit-wellness-tracker.git)|Fitbit API, MongoDB, Streamlit, Plotly| Architected an end-to-end pipeline using OAuth 2.0 and MongoDB to store heart rate and activity metrics. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluctuations and personalized fitness insights.|[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
 |**SPSS projects**||||
 |||||
 
@@ -38,3 +38,14 @@ Case studies in database architecture, network analysis, and machine learning. F
 ### 🛠️ Technical Stack
 * **Languages:** Python, SQL, Cypher
 * **Databases:** Neo4j, PostgreSQL, MongoDB
+
+### 🛠️ Technical Stack
+* **Languages**: Python (PyTorch, Scikit-learn, NLTK), SQL, Cypher
+
+* **Databases**: Relational: PostgreSQL (PostGIS) | Graph: Neo4j | Document: MongoDB
+
+* **MLOps & Experiment Tracking**: Hugging Face, Weights & Biases (W&B)
+
+* **Deployment & UI**: Streamlit
+
+* **Data Extraction/Testing**: Selenium
