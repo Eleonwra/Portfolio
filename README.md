@@ -1,6 +1,6 @@
 # 🗂️ Portfolio
 
-Case studies in database architecture, network analysis, and machine learning. Focusing on building clean foundations and solving technical data challenges.
+Welcome! Here’s a sneak peek into the projects I’ve been most passionate about. This is a snapshot of my work and technical growth so far.
 
 ![SQL (PostgreSQL)](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square) 
 ![NoSQL (MongoDB)](https://img.shields.io/badge/NoSQL-MongoDB-green?style=flat-square) 
