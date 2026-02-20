@@ -42,7 +42,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 ### 🏛️ Archive 
 | Project Link | Tools | Project Description
 | :--- | :--- | :--- |
-|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, RStudio, DAAG| **The project that sparked my passion for ML**. Performed EDA with strong descriptive statistics and developed Logistic Regression and Decision Tree models validated via Cross-Validation. (Report in Greek)|
+|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, RStudio, DAAG| **The project that sparked my passion for ML**. Conducted an extensive study transitioning from descriptive statistics and Logistic Regression to advanced SVMs (Linear/Radial) and Artificial Neural Networks. Utilized MCA for dimensionality reduction and k-fold Cross-Validation to identify critical survival factors in 26k+ accident records. (Reports in Greek)|
 
 
 ---
