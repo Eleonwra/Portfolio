@@ -11,7 +11,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 
 ### 📑 Table of Contents
 * [🧠 AI & Machine Learning](#-ai--machine-learning)
-* [🧑🏻‍🔧 Data Engineering & Analytics](#-data-engineering---analytics)
+* [🧑🏻‍🔧 Data Engineering & Analytics](#data-engineering)
 * [🗄️ Database Engineering](#️-database-engineering-sql--nosql)
 * [🛠️ Technical Stack](#️-technical-stack)
 
@@ -31,6 +31,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 |[**⌚ FitBit Streamlit app** (Team Project)](https://github.com/Eleonwra/fitbit-wellness-tracker.git)|Fitbit API, MongoDB, Streamlit, Plotly| Architected an end-to-end pipeline using OAuth 2.0 and MongoDB to store heart rate and activity metrics. Built an interactive Streamlit dashboard with Plotly to visualize daily health fluctuations and personalized fitness insights.|[Read](https://medium.com/@ioannisprokopiou/a-hands-on-guide-to-fitbit-api-mongodb-and-streamlit-553e8cdd6ccd)|
 |**📊 Exploratory Research & Survey Analysis**|SPSS, Google Forms|Research Collaboration:: Engineered a digital questionnaire for data collection and performed end-to-end statistical analysis. Conducted Hypothesis Testing, Correlation Analysis, and descriptive statistics to validate research variables.||
 
+<a name="data-engineering"></a>
 ### 🗄️ Database Engineering (SQL & NoSQL)
 
 | Project Link | Tools | Project Description | Medium Link |
