@@ -42,7 +42,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 ### 🏛️ Archive 
 | Project Link | Tools | Project Description
 | :--- | :--- | :--- |
-|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, RStudio, DAAG| **The project that sparked my passion for ML**. Conducted an in-depth exploratory analysis ccusing strong descriptive statistics and contingency tables to uncover correlations between safety features and aident outcomes. Developed and compared Logistic Regression and Decision Tree models, using k-fold Cross-Validation to ensure predictive accuracy and identify seatbelt usage and speed as critical survival factors.|
+|[**🌱 The origin story**](https://github.com/Eleonwra/airlines-sdbms.git)|R, RStudio, DAAG| **The project that sparked my passion for ML**. Performed EDA with strong descriptive statistics and developed Logistic Regression and Decision Tree models validated via Cross-Validation. (Report in Greek)|
 
 
 ---
