@@ -42,7 +42,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 | Category | Tools |
 | :--- | :--- |
 | **🧠 AI & Machine Learning** | `PyTorch` • `Hugging Face` • `Transformers` • `W&B` |
-| **🐍 Python & Data Science** | `NumPy` • `Pandas` • `Matplotlib` • `OOP` |
+| **🐍 Python & Data Science** | `NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `OOP` |
 | **🗄️ Databases** | `PostgreSQL` • `PostGIS` • `Neo4j` • `MongoDB`  |
 | **📊 Stats & Research** | `R` • `SPSS` • `LaTeX` |
 | **🌐 Deployment & Scraping** | `Streamlit` • `Selenium` • `Git/GitHub` |
