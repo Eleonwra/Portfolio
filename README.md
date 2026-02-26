@@ -35,7 +35,7 @@ Welcome! Here’s a sneak peek into the projects I’ve been most passionate abo
 ### 🏛️ Archive 
 | Project Link | Tools | Project Description | Report |
 | :--- | :--- | :--- | :--- |
-|**🌱 The origin story**|R, nnet, e1071, DAAG| **The project that sparked my passion for ML**. Conducted an extensive study transitioning from descriptive statistics and Logistic Regression to advanced SVMs (Linear/Radial) and Artificial Neural Networks. Utilized MCA for dimensionality reduction and k-fold Cross-Validation to identify critical survival factors in 26k+ accident records.| [Report in Greek](https://drive.google.com/drive/folders/1nq6HYgmBRGeSVvsSFTJMUBWLjJ_HS8wd?usp=drive_link)
+|**🌱 The origin story**|R, nnet, e1071, DAAG| **The project that sparked my passion for ML**. Conducted an extensive study transitioning from descriptive statistics to machine learning. Leveraged Multiple Correspondence Analysis (MCA) for dimensionality reduction and applied a comparative study of machine learning algorithms to identify critical survival factors in a dataset of 26k+ accident records.| [Report in Greek](https://drive.google.com/drive/folders/1nq6HYgmBRGeSVvsSFTJMUBWLjJ_HS8wd?usp=drive_link)
 
 ### 🛠️ Technical Stack
 
